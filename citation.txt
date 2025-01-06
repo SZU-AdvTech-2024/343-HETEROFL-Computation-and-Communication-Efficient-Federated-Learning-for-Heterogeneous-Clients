@@ -2,8 +2,6 @@
     author = "Diao, Enmao and Ding, Jie and Tarokh, Vahid",
     archiveprefix = "arXiv",
     eprint = "2010.01264",
-    primaryclass = "cs.LG",
     title = "{HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients}",
-    url = "https://arxiv.org/abs/2010.01264",
     year = "2021"
 }
